@@ -1,0 +1,6 @@
+Python is a high-level programming language.
+It was created by Guido van Rossum.
+Machine learning is a subset of artificial intelligence.
+Transformers are used in NLP tasks.
+virat kohli is a greatest test captain in the world.
+marc marquez is a crash thier bike in motogp racing 2026.
