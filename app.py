@@ -1,12 +1,18 @@
 import gradio as gr
+import os
 from qa_model import get_answer
 
-# Load document
-with open("data/document.txt", "r", encoding="utf-8") as f:
+# Load document safely
+file_path = os.path.join("data", "document.txt")
+
+if not os.path.exists(file_path):
+    raise FileNotFoundError(f"{file_path} not found")
+
+with open(file_path, "r", encoding="utf-8") as f:
     context = f.read()
 
 def answer_question(question):
-    if question.strip() == "":
+    if not question.strip():
         return "Please enter a question"
     return get_answer(question, context)
 
