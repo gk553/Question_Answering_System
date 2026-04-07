@@ -6,5 +6,22 @@ virat kohli is a greatest test captain in the world.
 marc marquez is a crash thier bike in motogp racing 2026.
 abhishek is a my best friend.
 mohan is help to create question answering system project.
+Elon Musk is the CEO of Tesla.
+Sundar Pichai is the CEO of Google.
+Mark Zuckerberg founded Facebook.
+Bill Gates co-founded Microsoft.
+MS Dhoni is a former Indian captain.
+Sachin Tendulkar is called the God of Cricket.
+Cristiano Ronaldo is a football player.
+Lionel Messi plays for Argentina.
+Python is popular for machine learning projects.
+Natural Language Processing helps computers understand text.
+Chatbots are used in customer support systems.
+Transformers improve language understanding models.
+Java is a widely used programming language.
+The Earth revolves around the Sun.
+Artificial intelligence is transforming many industries.
+Deep learning is a part of machine learning.
+Data science involves statistics and programming.
 
 
